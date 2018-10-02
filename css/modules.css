@@ -1248,4 +1248,7 @@ a:focus, [tabindex="0"]:focus {
   h1, h2, h3, h4, h5, h6 {
     page-break-after: avoid;
   }
+
+  /* End HTML5 Boilerplate code */
+
 }
